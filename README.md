@@ -118,9 +118,7 @@ The goal of this work is not only to build a prediction model but also to gain h
 
 * Python
 * Pandas
-* NumPy
 * Scikit-learn
-* TensorFlow / Keras
 * Matplotlib
 * Seaborn
 * Flask / FastAPI *(for deployment phase)*
