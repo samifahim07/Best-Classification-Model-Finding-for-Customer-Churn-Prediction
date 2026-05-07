@@ -139,3 +139,7 @@ The goal of this work is not only to build a prediction model but also to gain h
 ## Author Note
 
 This project represents my learning journey in Machine Learning and research writing. As this is my first research-oriented project and first IEEE-style paper attempt, feedback and suggestions are always appreciated.
+
+**For a more detailed explanation of this project, please review the accompanying DOCX document.**
+
+## ⭐ Give a star if you like this project!
